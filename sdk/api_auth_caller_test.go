@@ -1,7 +1,7 @@
 package sdk
 
 import (
-	"github.com/polaris-team/dingtalk-sdk-golang/json"
+	"github.com/go-packages/dingtalk-sdk-golang/json"
 	"os"
 	"testing"
 	"time"

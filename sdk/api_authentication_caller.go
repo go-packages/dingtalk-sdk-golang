@@ -1,8 +1,8 @@
 package sdk
 
 import (
-	"github.com/polaris-team/dingtalk-sdk-golang/http"
-	"github.com/polaris-team/dingtalk-sdk-golang/json"
+	"github.com/go-packages/dingtalk-sdk-golang/http"
+	"github.com/go-packages/dingtalk-sdk-golang/json"
 )
 
 //第三方企业应用免登(获取用户userid)

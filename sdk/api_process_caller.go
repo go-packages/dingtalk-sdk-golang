@@ -3,9 +3,9 @@ package sdk
 import (
 	"fmt"
 	"github.com/modern-go/reflect2"
-	"github.com/polaris-team/dingtalk-sdk-golang/encrypt"
-	"github.com/polaris-team/dingtalk-sdk-golang/http"
-	"github.com/polaris-team/dingtalk-sdk-golang/json"
+	"github.com/go-packages/dingtalk-sdk-golang/encrypt"
+	"github.com/go-packages/dingtalk-sdk-golang/http"
+	"github.com/go-packages/dingtalk-sdk-golang/json"
 	"reflect"
 	"strconv"
 )

@@ -1,8 +1,8 @@
 package sdk
 
 import (
-	"github.com/polaris-team/dingtalk-sdk-golang/http"
-	"github.com/polaris-team/dingtalk-sdk-golang/json"
+	"github.com/go-packages/dingtalk-sdk-golang/http"
+	"github.com/go-packages/dingtalk-sdk-golang/json"
 )
 
 //获取外部联系人标签列表
